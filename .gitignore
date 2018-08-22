@@ -1,0 +1,8 @@
+*.pyc
+*.xml
+*.out
+*.iml
+.idea/
+.pytest_cache/
+.vscode/
+deepclust.egg-info
